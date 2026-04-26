@@ -1,4 +1,4 @@
-# dns-cache
+# dns-cache-server
 
 Minimal caching DNS proxy for macOS.
 
