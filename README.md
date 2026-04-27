@@ -64,7 +64,7 @@ Answered locally with empty `NOERROR`:
 ## Run
 
 ```bash
-cd "/Users/sunforce/Documents/New project 2"
+cd "/Users/user/Documents/dns_server_project"
 ./run.sh
 ```
 
